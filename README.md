@@ -32,12 +32,12 @@ The interactive key logger features:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/interactive-keylogger.git
+git clone https://github.com/ShoyebRampure/Keylogger.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd interactive-keylogger
+cd Keylogger
 ```
 
 3. Open `index.html` in your web browser to run the application.
